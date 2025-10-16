@@ -5,13 +5,10 @@
 - 📫 Se curtiu me da um toque: colombocordeiroarthur@gmail.com
 - 😄 Pronouns: Ele/dele | He/him
 
----
-
 ## Linguágens com Experiência:
-
----
 
 ## Pode me encontrar em:
 
 [![Linkedin](https://i.imgur.com/KZILEcm.png)](https://www.linkedin.com/in/arthur-colombo-cordeiro-571177304/)
+[![LinkTree](https://i.imgur.com/mbwGvEP.png)](https://linktr.ee/arthurccordeiro)
 
