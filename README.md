@@ -7,7 +7,7 @@ Pronouns: Ele/dele | He/him
 ## Experienced Programming Languages:
 
 ![Python](https://i.imgur.com/M44Q7JP.png)
-![OracleSQL](https://i.imgur.com/M44Q7JP.png)
+![OracleSQL](https://i.imgur.com/71OgOJh.png)
 ![TypeScript](https://i.imgur.com/K4b1pTC.png)
 ![Java](https://i.imgur.com/Eks0xFG.png)
 
