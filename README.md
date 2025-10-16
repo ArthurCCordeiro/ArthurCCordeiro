@@ -12,7 +12,9 @@ Pronouns: Ele/dele | He/him
 ![Java](https://i.imgur.com/Eks0xFG.png)
 
 ## Where you can Find Me:
-**E-mail:** colombocordeiroarthur@gmail.com
 [![Linkedin](https://i.imgur.com/KZILEcm.png)](https://www.linkedin.com/in/arthur-colombo-cordeiro-571177304/)
 [![LinkTree](https://i.imgur.com/vwX4hMR.png)](https://linktr.ee/arthurccordeiro)
+
+**E-mail:** colombocordeiroarthur@gmail.com
+
 
