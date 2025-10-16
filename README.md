@@ -14,5 +14,5 @@
 ## Pode me encontrar em:
 
 [![Linkedin](https://i.imgur.com/KZILEcm.png)](https://www.linkedin.com/in/arthur-colombo-cordeiro-571177304/)
-[![LinkTree](https://i.imgur.com/vwX4hMR.png)(https://linktr.ee/arthurccordeiro)
+[![LinkTree](https://i.imgur.com/vwX4hMR.png)](https://linktr.ee/arthurccordeiro)
 
