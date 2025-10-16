@@ -5,7 +5,13 @@
 - 📫 Se curtiu me da um toque: colombocordeiroarthur@gmail.com
 - 😄 Pronouns: Ele/dele | He/him
 
-<!---
-ArthurCCordeiro/ArthurCCordeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Linguágens com Experiência:
+
+---
+
+## Pode me encontrar em:
+
+[![Linkedin](https://i.imgur.com/KZILEcm.png)](https://www.linkedin.com/in/arthur-colombo-cordeiro-571177304/)
+
