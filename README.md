@@ -7,15 +7,11 @@
 
 ## Linguágens com Experiência:
 
-![Python](https://i.imgur.com/M44Q7JP.png)
-
+![Python](https://i.imgur.com/M44Q7JP.png)  
 ![TypeScript](https://i.imgur.com/K4b1pTC.png)
-
 ![Java](https://i.imgur.com/Eks0xFG.png)
 
 ## Pode me encontrar em:
-
 [![Linkedin](https://i.imgur.com/KZILEcm.png)](https://www.linkedin.com/in/arthur-colombo-cordeiro-571177304/)
-
 [![LinkTree](https://i.imgur.com/vwX4hMR.png)](https://linktr.ee/arthurccordeiro)
 
