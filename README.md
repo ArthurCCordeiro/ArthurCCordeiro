@@ -9,7 +9,7 @@ Hey, My name is Arthur Colombo Cordeiro, I'm 20 years old! I'm a student at **FI
 ![OracleSQL](https://i.imgur.com/71OgOJh.png)
 ![TypeScript](https://i.imgur.com/K4b1pTC.png)
 ![Java](https://i.imgur.com/Eks0xFG.png)
-![Quartus](https://imgur.com/EGLjymI)
+![Quartus](https://i.imgur.com/EGLjymI.png)
 
 ## Where you can Find Me:
 [![Linkedin](https://i.imgur.com/KZILEcm.png)](https://www.linkedin.com/in/arthur-colombo-cordeiro-571177304/)
