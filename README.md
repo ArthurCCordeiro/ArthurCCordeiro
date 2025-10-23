@@ -18,5 +18,5 @@ Hey, My name is Arthur Colombo Cordeiro, I'm 20 years old! I'm a student at **FI
 **E-mail:** colombocordeiroarthur@gmail.com
 
 ----
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ArthurCCordeiro/ArthurCCordeiro/output/snake.svg" alt="Snake animation" />
 
