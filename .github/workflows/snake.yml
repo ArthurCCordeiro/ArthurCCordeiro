@@ -2,10 +2,10 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # roda a cada 12h
+    - cron: "0 */12 * * *"  # Roda a cada 12h
   push:
     branches:
-      - main
+      - main  # Ou outra branch que você deseja monitorar
   workflow_dispatch:
 
 jobs:
@@ -19,9 +19,20 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: ArthurCCordeiro  # <-- coloque aqui seu nome de usuário exato
+          github_user_name: ArthurCCordeiro  # Substitua pelo seu usuário GitHub
           outputs: |
             dist/snake.svg
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit Snake SVG
+        run: |
+          git add dist/snake.svg
+          git commit -m "Update Snake animation"
+          git push origin main  # Ou a branch que você deseja
 
       - name: Deploy Snake to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
