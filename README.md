@@ -28,10 +28,10 @@ Hey, My name is Arthur Colombo Cordeiro, I'm 20 years old! I'm a student at **FI
 
 <p  align="center"  >
 <a  href="https://www.linkedin.com/in/arthur-colombo-cordeiro-571177304/"  target="_blank">
-<img  height="50px"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+<img  height="85px"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 <a  href="https://linktr.ee/arthurccordeiro"  target="_blank">
-<img  height="50px"  src="https://img.shields.io/badge/linktree-42e661?style=for-the-badge&logo=linktree&logoColor=black"></a>
+<img  height="85px"  src="https://img.shields.io/badge/linktree-42e661?style=for-the-badge&logo=linktree&logoColor=black"></a>
 
 
 </p>
@@ -42,5 +42,5 @@ Hey, My name is Arthur Colombo Cordeiro, I'm 20 years old! I'm a student at **FI
 **E-mail:** colombocordeiroarthur@gmail.com
 
 ----
-<img src="https://raw.githubusercontent.com/ArthurCCordeiro/ArthurCCordeiro/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ArthurCCordeiro/ArthurCCordeiro/output/snake.svg" alt="Snake_GitHub_Animation" />
 
