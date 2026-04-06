@@ -8,7 +8,6 @@ Hey, My name is Arthur Colombo Cordeiro, I'm 20 years old! I'm a student at **FI
  <img src="https://i.imgur.com/K4b1pTC.png" alt="TypeScript" /> 
  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="95" style="width: 95px; height: 95px; margin-right: 95px; margin-bottom: 0px;" />
  <img src="https://i.imgur.com/fgeGJg9.png" alt="VHDL" /> 
- <img src="https://i.imgur.com/XGBgm5E.png" alt="Oracle_Database" /> 
 </div>
 <div align="center" >
 
@@ -17,11 +16,12 @@ Hey, My name is Arthur Colombo Cordeiro, I'm 20 years old! I'm a student at **FI
 
 ## Experienced Programs
 
-<div align="center" >
+<div align="center">
  <img src="https://i.imgur.com/K1SjDnz.png" alt="VSCode" /> 
  <img src="https://i.imgur.com/rGiSmkn.png" alt="InteliJ" /> 
-  <img src="https://i.imgur.com/71OgOJh.png" alt="Oracle_SQL_Developer" /> 
-   <img src="https://i.imgur.com/t6TTgU5.png" alt="Quartus_Prime" /> 
+ <img src="https://i.imgur.com/71OgOJh.png" alt="Oracle_SQL_Developer" /> 
+ <img src="https://i.imgur.com/t6TTgU5.png" alt="Quartus_Prime" /> 
+ <img src="https://i.imgur.com/XGBgm5E.png" alt="Oracle_Database" /> 
 </div>
 
 ## Where you can Find Me:
