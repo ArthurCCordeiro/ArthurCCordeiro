@@ -9,6 +9,7 @@ Hey, My name is Arthur Colombo Cordeiro, I'm 20 years old! I'm a student at **FI
   <img src="https://i.imgur.com/K4b1pTC.png" alt="TypeScript" height="65" /> 
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" height="65" />
   <img src="https://i.imgur.com/fgeGJg9.png" alt="VHDL" height="65" />
+  <img src="https://imgur.com/CghLYFt.png" alt="Assembly" height="65" />
 </div>
 
 ## 🧠 Experienced Programs
